@@ -15,6 +15,7 @@ Features
 - Uniqueness Assessment: Counts unique characters to ensure password robustness.
 - Common Password Detection: Alerts users if the password is too common.
 - Repetitive Character Check: Flags passwords with excessive repetition of characters.
+  
 Key Components
 - Length Analysis: Classifies passwords based on their length (short, medium, strong).
 - Character Type Detection: Uses regular expressions to identify character types.
