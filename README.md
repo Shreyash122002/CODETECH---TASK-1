@@ -1,6 +1,4 @@
-CODETECH  TASK-1
-
-# Password Strength Checker
+CODETECH  TASK-1 - Password Strength Checker
 
 Name: Shreyash Santosh kajrolkar  
 Company: CODTECH IT SOLUTIONS
