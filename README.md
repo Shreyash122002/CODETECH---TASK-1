@@ -1,9 +1,13 @@
 CODETECH  TASK-1 - Password Strength Checker
 
-Name: Shreyash Santosh kajrolkar  
+Name: Shreyash Santosh kajrolkar
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT6WDS2149 
-Domain:  CYBER SECURITY AND ETHICAL HACKING  
+
+Domain:  CYBER SECURITY AND ETHICAL HACKING 
+
 Duration: OCTOBER 10th, 2024 to NOVEMBER 25th, 2024 
 
 Overview
